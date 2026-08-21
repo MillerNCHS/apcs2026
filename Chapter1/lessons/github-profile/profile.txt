@@ -1,4 +1,4 @@
-Name:
+Name: Dr. Miller
 Grade:
 Favorite Programming Language:
 Favorite Thing About Computer Science:
